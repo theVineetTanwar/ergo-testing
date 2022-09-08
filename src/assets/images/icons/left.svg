@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000041255637773490847090000006295983209552493715_);}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:3;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="7.5" y="7.5" width="85" height="85"/>
+	</defs>
+	<clipPath id="SVGID_00000081647056434714984980000005349354234939915963_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<path style="clip-path:url(#SVGID_00000081647056434714984980000005349354234939915963_);" d="M50,92.5c23.5,0,42.5-19,42.5-42.5
+		S73.5,7.5,50,7.5S7.5,26.5,7.5,50S26.5,92.5,50,92.5"/>
+</g>
+<polyline class="st1" points="42,29.8 62,49.8 41.6,70.2 "/>
+</svg>
